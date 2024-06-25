@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Tracking System</title>
+    <style>
+      figure{
+        background-color: rgb(156, 166, 112);
+        display:inline-block;
+      }  
+    img{
+    width: 500px;
+    height: 500px;
+
+}
+h3{
+    color: rgb(12, 12, 12);
+}
+p{
+    color: rgb(92, 24, 156);
+    size: 50px;
+}
+        </style>
+</head>
+<body>
+    <figure>
+   <img src="https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sneha-archanaskitchen.com/Sweet_Spicy_Pineapple_Pani_Puri_Recipe.jpg" alt="">
+<figcaption><h3>DIVYA'S CHAT STALL</h3><p>Our products will give you healthy diet and nutrients</p></figcaption></figure>
+</body>
+</html>
